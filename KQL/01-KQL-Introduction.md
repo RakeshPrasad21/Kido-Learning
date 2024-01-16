@@ -9,7 +9,8 @@ A Kusto query is a read-only operation to retrieve information from the ingested
  
 It will look very familiar if you've ever worked with a structured query language (SQL). KQL is designed as a well-performing tool to help surface critical data quickly. A big reason companies use KQL to query logs is its ability to be easy to read, author, and automate.
 
-![image](https://github.com/RakeshPrasad21/Kido-Learning/assets/89901373/KQL-Introduction)
+![image](https://github.com/RakeshPrasad21/Kido-Learning/assets/89901373/9fa4e80c-48b4-4685-b2cf-332c15a19e44)
+
 
 
 ## Why ? 
